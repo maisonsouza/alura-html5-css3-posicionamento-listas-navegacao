@@ -13,6 +13,9 @@
 - Como deixar o texto em negrito com CSS
 - Como remover a decoração do texto
 ## Posicionamento dos elementos
+- Como remover os estilos que o navegador cria automaticamente
+- Como funciona os posicionamentos static, relative e absolute dos elementos
+- Como posicionar o cabeçalho da nossa página
 ## A tag section
 ## Lidando com bordas
 ## Pseudo-classes CSS
