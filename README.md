@@ -2,6 +2,10 @@
 ![](https://www.alura.com.br/assets/api/share/curso-html5-css3-posicionamento-listas-navegacao.png)
 
 ## Criando uma nova página
+- Uma introdução ao projeto do treinamento
+- Uma revisão do conteúdo aprendido no treinamento anterior
+- Uma revisão da base de uma página HTML
+- Lista HTML não ordenada
 ## Navegação entre páginas
 ## Posicionamento dos elementos
 ## A tag section
