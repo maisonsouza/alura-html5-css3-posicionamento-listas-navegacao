@@ -17,6 +17,10 @@
 - Como funciona os posicionamentos static, relative e absolute dos elementos
 - Como posicionar o cabeçalho da nossa página
 ## A tag section
+- A tag main, para o conteúdo principal da nossa página
+- A criar listas complexas, com títulos, imagens e parágrafos
+- A utilizar o inline-block
+- A praticar e estilizar o conteúdo principal da nossa página
 ## Lidando com bordas
 ## Pseudo-classes CSS
 ## Finalizando a página de produtos
