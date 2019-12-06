@@ -72,3 +72,15 @@ nav{
     font-size: 18px;
     padding: 30px 20px;
 }
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin-top: 20px;
+}
