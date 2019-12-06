@@ -38,6 +38,9 @@
 - Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
 - A tabela Unicode
 
+##### Certificado
+[Certificado HTML5 E CSS3 PARTE 2: POSICIONAMENTO, LISTAS E NAVEGAÇÃO](https://cursos.alura.com.br/certificate/maisongalvao/html5-css3-posicionamento-listas-navegacao)
+
 
 
 
